@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gcr:home|Door43 (gcr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gcr|d43-gcr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gcr/archive/master.zip|d43-gcr.zip]]
+
+**Recent Changes**
+{{changes>ns = gcr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gcr|Ethnologue data]]
+
